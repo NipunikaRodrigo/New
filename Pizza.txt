@@ -1,0 +1,2 @@
+1)Go to pizzHut
+2)Order pizza
